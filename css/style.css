@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.divtitulo{
+  border: 3px solid blue;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  margin-top: 1%;
+}
+
+.datoslibro{
+  border: 3px solid gray;
+  margin-top:1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
+
+.lista{
+  border: 3px solid greenyellow;
+  padding-left: 2.3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 1%;
+}
+.texto{
+
+  padding-left: 1%;
+  margin-top: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
